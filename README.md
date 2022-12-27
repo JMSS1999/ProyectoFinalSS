@@ -1,6 +1,6 @@
 # Aplicacion Sports Notes
-![](img/seleccion.png)
-![](img/imagendep.png")
+![](/src/public/img/seleccion.png)
+![](/src/public/img/imagendep.png")
 
 ## Estructura
-- Aplicación de Notas Deportivas co Nodejs y Mysql
+- Aplicación de Notas Deportivas con Nodejs y Mysql
