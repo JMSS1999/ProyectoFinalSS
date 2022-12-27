@@ -1,11 +1,9 @@
-# Notes App with Nodejs and Mysql
-![](docs/screenshot2.png)
-![](docs/screenshot.png)
+# Aplicacion Sports Notes
+![](/src/public/img/seleccion.png)
+![](/src/public/img/imagendep.png")
 
-## File Structure
-- database, it the folder with all the sql queries, you can use to recreate the database for this application
-- src, it's all the code for the Backend and Frontend Application
-- docs
+## Estructura
+- Aplicación de Notas Deportivas con Nodejs y Mysql
 
-## Tutorial
-- [Youtube Tutorial](https://youtu.be/qJ5R9WTW0_E)
+
+
