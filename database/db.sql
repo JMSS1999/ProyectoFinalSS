@@ -1,4 +1,4 @@
-CREATE DATABASE dbposrtsnotes;
+CREATE DATABASE dbsportsnotes;
 USE dbsportsnotes;
 -- TABLE USER
 -- all pasword wil be encrypted using SHA1
