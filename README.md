@@ -8,7 +8,7 @@
 
 
 
-=======
+
 
 ## Estructura
 - Aplicación de Notas Deportivas con Nodejs y Mysql
